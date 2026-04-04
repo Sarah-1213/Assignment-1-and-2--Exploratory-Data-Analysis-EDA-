@@ -12,19 +12,33 @@ number of columns:  16
 # Description of features (columns):
 
 Make: Identifies the manufacturer .
+
 Model: Identifies specific model of the car.
+
 Year: Indicates the production year of the vehicle.
+
 Engine Fuel Type: Specifies the type of fuel used
+
 Engine HP: Represents the engine horsepower .
+
 Engine Cylinders: Number of cylinders in the engine.
+
 Transmission Type: Shows whether the car uses manual or automatic transmission.
+
 Driven Wheels: Indicates the drivetrain configuration (FWD, RWD, AWD).
+
 Market Category: Describes the market segment (Luxury, Performance, High Performance).
+
 Vehicle Size: Classifies the car size (Compact, Midsize, Large).
+
 Vehicle Style: Defines the body style (Coupe, Sedan, Convertible, SUV).
+
 city mpg: Fuel efficiency in urban, stop‑and‑go driving.
+
 highway MPG: Fuel efficiency during steady‑speed highway driving.
+
 Popularity: A numerical score indicating how popular the car model is.
+
 MSRP: Manufacturer’s Suggested Retail Price, representing the vehicle’s market value.
 
 # Purpose of using this dataset :
