@@ -1,4 +1,4 @@
-# Assignment-1-Exploratory-Data-Analysis-EDA
+# Assignment-1 and 2 :Exploratory-Data-Analysis-EDA , Data Quality Assessment & Preprocessing 
 Car Features and MSRP
 This Assignment uses a car dataset containing various vehicle specifications and pricing information. The dataset is provided in CSV format and includes both numerical and categorical features that support comprehensive exploratory data analysis.
 
