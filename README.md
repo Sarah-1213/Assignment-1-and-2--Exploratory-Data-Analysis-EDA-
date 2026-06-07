@@ -42,4 +42,5 @@ Popularity: A numerical score indicating how popular the car model is.
 MSRP: Manufacturer’s Suggested Retail Price, representing the vehicle’s market value.
 
 # Purpose of using this dataset :
-This dataset was selected to perform data cleaning and exploratory data analysis . The main goal was to handle missing values, remove duplicates, fix data types, and prepare a clean and reliable dataset for analyzing how different car features such as engine power, fuel efficiency, and vehicle specifications relate to car prices
+This dataset was selected to perform data cleaning, preprocessing, and exploratory data analysis. The main goal was to identify and handle data quality issues, manage missing values, detect and treat outliers, normalize numerical features, and apply dimensionality reduction techniques. These preprocessing steps help create a clean and reliable dataset for analyzing how different car features, such as engine power, fuel efficiency, and vehicle specifications, relate to car prices and improve the quality of subsequent data analysis.
+
